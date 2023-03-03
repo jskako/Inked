@@ -1,7 +1,7 @@
 # I N K E D - UNDER CONSTRUCTION
 
 Note sharing application that will simplify your life so much that you will hate me that I didn't create it before. 
-Sadly or Luckily, I have full-time joband kid so not much free time for side-projects.
+Sadly or Luckily, I have full-time job and kid so not much free time for side-projects.
 
 Idea behind this project is that you can easily share your note room by sending ID and PASSWORD.
 Whoever has ID and PASSWORD can see all notes in room.
